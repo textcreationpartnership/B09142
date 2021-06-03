@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks upon the Anabaptist answer (sold by John Harris) to the Athenian mercuries: and some upon his answer, who styles himself Philalethes Pasiphilus.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09142</idno><idno type="EEBO-CITATION">124064178</idno>
+  <idno type="VID">192262</idno>
+  <idno type="EEBO-PROQUEST">2240961377</idno>
+  
+            <idno type="OCLC"> 124064178</idno>
+            <idno type="STC">Wing F966A</idno>
+            <idno type="STC">ESTC R221765</idno>
+            <idno type="OCLC">ocn 124064178</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192262)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2910:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks upon the Anabaptist answer (sold by John Harris) to the Athenian mercuries: and some upon his answer, who styles himself Philalethes Pasiphilus.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lawrence at the Angel in the Poultrey.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXCII. [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Toronto Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pasiphilus, Philalethes. --  Confidence corrected, error detected, and truth defended; or Some farther reflections upon the two Athenian Mercuries lately publish'd about infant-baptism.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+               <term type="topical_term">Circumcision --  Religious aspects --  Early works to 1800.</term>
+               <term type="topical_term">Covenants --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192262:1"/>
+            <pb facs="tcp:192262:1"/>
+            <p>SOME REMARKS UPON THE Anabaptist Answer [Sold by <hi>John Harris</hi>] TO THE <hi>Athenian Mercuries:</hi> AND Some upon His ANSWER, Who Styles Himself <hi>PHILALETHES PASIPHILƲS.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Lawrence</hi> at the <hi>Angel</hi> in the <hi>Poultrey.</hi> MDCXCII.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:192262:2"/>
+            <head>Ad R<seg rend="sup">mum.</seg> Dom. Authorem.</head>
+            <lg>
+               <l>
+                  <hi>Ʋt terrae cumulis Adamas plus, pulvis &amp; auri,</hi>
+               </l>
+               <l>
+                  <hi>Et Facibus multis unica stella poli;</hi>
+               </l>
+               <l>
+                  <hi>Sic</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>immensis parvula scriptis</hi>
+               </l>
+               <l>
+                  <hi>Plus,</hi> Venerande Senex, <hi>vestra pagella valet.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Cecinit</hi> Dîgratia Clavecastri.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:192262:2"/>
+            <head>SOME REMARKS UPON THE <hi>Anabaptist Answer</hi> [Sold by <hi>John Harris</hi>] TO THE Athenian Mercuries, &amp;c.</head>
+            <p>THE Covenant of God with our Father <hi>Abraham,</hi> 17 <hi>Gen.</hi> 7, 8, <hi>&amp;c.</hi> being the first Ground upon which Children were admitted with their Parents into the Church, and had a Church-Ordinance admini<g ref="char:EOLhyphen"/>stred to them; if God hath repealed this Covenant, and nulled our Fathers Charter, the Controversie between us and the Anabaptist and Anti<g ref="char:EOLhyphen"/>paedobaptist is at an end.</p>
+            <p>The first of these Answerers tells us, <hi>p.</hi> 19. <hi>That it is plainly repealed.</hi> Whe<g ref="char:EOLhyphen"/>ther it be so, we shall see presently.</p>
+            <p>Before I proceed, this I lay down for Truth, <hi>viz. God did never make a Co<g ref="char:EOLhyphen"/>venant with his People expresly; but if he did repeal it, he did repeal it expresly.</hi>
+            </p>
+            <p>For Instance, <hi>Moses</hi> 29 <hi>Deut.</hi> 1. tells the People, beside the Covenant God made with <hi>Israel</hi> at <hi>Horeb,</hi> he made another Covenant with them in the Land of <hi>Moab.</hi> This we read, 10, 11, 12, 13 <hi>v.</hi> of the same Chapter. So that here are <hi>two</hi> Covenanrs.</p>
+            <p>But there is another Covenant above Four Hundred Years before either of these, with our Father <hi>Abraham;</hi> so that there are <hi>three</hi> Covenants: But <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> does not mention our Father <hi>Abraham</hi>'s Covenant.</p>
+            <pb n="2" facs="tcp:192262:3"/>
+            <p>But as for these two Covenants, God <hi>expresly</hi> repealed them. That in <hi>Horeb</hi> which was long before this in <hi>Moab,</hi> he declares the repealing of it in <hi>Mercy</hi> and <hi>Love,</hi> before they went into Captivity, 31 <hi>Jer.</hi> 31, 32, &amp;c. 8 <hi>Heb.</hi> 8. But that in <hi>Moab</hi> he declares the repealing of it in <hi>Wrath,</hi> after their return from <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> for their great Sin, in rejecting of Christ, 11 <hi>Zech.</hi> 10. <hi>That I might break the</hi> Covenant <hi>which I had made with all the People.</hi> You may read the People, in 29 <hi>Deut.</hi> 10, 11, 12, 13. with whom this Covenant was made.</p>
+            <p>But here he does not break the Covenant with the Children <hi>firstly</hi> and <hi>only:</hi> But with the Parents firstly, for rejecting Christ, as the 12 &amp; 13 <hi>v.</hi> declare. Yet here again he had a respect to <hi>the poor of the Flock that waited upon him, and whom he fed,</hi> 7 &amp; 11 <hi>v.</hi> But not one Word of <hi>Abraham</hi>'s Covenant, the Father of Believers, being repealed.</p>
+            <p>I prove it further, no Repealing. In 2 <hi>Ephes.</hi> 11, 12. the Apostle declares the miserable Estate of us Gentiles, before Christ came, and the Gospel was Preached amongst us. I will name but Three of the things whereby our mi<g ref="char:EOLhyphen"/>serable state is set forth.</p>
+            <p n="1">1st. <hi>Aliens from the Common-wealth of Israel.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Dutch render <hi>Ci<g ref="char:EOLhyphen"/>tizen-ship,</hi> i. e. <hi>The Church of God contained in the Commonwealth,</hi> say they, and so others; and that must be the meaning: For in 19 <hi>v.</hi> shewing what a Change is made by our embracing the Gospel, <hi>Now ye are no more Strangers, but</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Fellow-Citizens,</hi> which cannot be meant of the Civil Common<g ref="char:EOLhyphen"/>wealth
+<note n="*" place="margin">More I could say, but this is sufficient.</note>, impossible for all Gentile Churches to be Fellow-Citizens in that Sence: But their Children were Fellow-Citizens with their Parents, that is, Church-Members, and the greatest part of the Church too. How many Children might one Father have? <hi>They are Fellow-Citizens with the Saints,</hi> that clears it more. And yet more, <hi>They are of the Houshold of God.</hi> But Children are part of the <hi>House,</hi> they <hi>build up the House,</hi> 25 Deut. 5.9. When therefore we read the Apostles Baptized <hi>Housholds,</hi> I do not question at all but they Baptized the Children too, if any were in the House: It does not concern us to prove there were Children in those Houses, 'tis enough for us, Children are a part, and a great part too of the Houshold.</p>
+            <p n="2">2ly. The Second thing in which our Misery consisted, <hi>We and our Children were without Covenant of Promise.</hi> No share, neither in <hi>Abraham</hi>'s Covenant, nor <hi>Ho<g ref="char:EOLhyphen"/>reb,</hi> nor <hi>Moab.</hi>
+            </p>
+            <p n="3">3ly. As we were without the Covenant, so without the <hi>Seal of the Covenant,</hi> we <hi>were not Circumcised, v.</hi> 11. But Circumcision came in with <hi>Abraham</hi>'s Covenant. <hi>Circumcision is not of</hi> Moses, <hi>but of the Fathers, saith our Lord,</hi> 7 <hi>John</hi> 22.</p>
+            <p>So then to be without <hi>Church-membership,</hi> without <hi>Covenant,</hi> without the <hi>Seal of the Covenant,</hi> [of which all the Jews Children were Partakers] is a misera<g ref="char:EOLhyphen"/>ble state: Such was our state once.</p>
+            <p>
+               <hi>But now,</hi> saith the Apostle, <hi>v.</hi> 13. <hi>in Christ Jesus ye who are far off,</hi> &amp;c. The Apostle tells us what we Gentiles get by believing in Christ, <hi>viz.</hi> We partake of as high Spiritual Blessings, and all Church-Priviledges, both we and our Chil<g ref="char:EOLhyphen"/>dren, as ever Jews did or do; which is the Scope of all the Apostles Discourse from the 13 <hi>v.</hi> to the end of the Chapter: If our <hi>Children</hi> be not taken in, the Apostles Discourse, in the 19 <hi>v.</hi> is not true; nor are the Gentiles Miseries, as to the three Heads I mentioned in the 11 and 12 <hi>v.</hi> taken away, but remain still. To the same purpose doth that Verse, 11 <hi>Rom.</hi> 17. speak; and that 1 <hi>Cor.</hi> 7 14. <hi>Your Children are Saints.</hi> Had <hi>Paul</hi> told all the Citizens in <hi>Corinth, Ʋnless you be Believers in Christ,
+<pb n="3" facs="tcp:192262:3"/>all your Children are Bastards,</hi> I believe <hi>Paul</hi> had not come out of <hi>Corinth</hi> alive. The Apostle speaks in the Verse but of <hi>one</hi> Husband and <hi>one</hi> Wife, and the Chil<g ref="char:EOLhyphen"/>dren of such Parents were as Legitimate before <hi>Faith,</hi> as any of the Anabaptists are. They were a <hi>Godly Seed,</hi> according to 2 <hi>Mal.</hi> 15. For here was but one Man and one Wife, according to that Verse, before Faith. What is meant by the Word <hi>Godly</hi> in that Text is another Question, the Word is not so in the Hebrew. If it be meant the <hi>Image of God,</hi> in which Man was created, that surely did not rise, because he made but <hi>one Woman;</hi> but from the <hi>State</hi> where<g ref="char:EOLhyphen"/>in he created them. Had he made <hi>Adam</hi> Three Wives, and they had con<g ref="char:EOLhyphen"/>tinued in their pure Estate, their Children had been a <hi>Godly Seed</hi> in that Sense.</p>
+            <p>It was from this Covenant the Great God made with <hi>Abraham</hi> and his Seed, and not with other Nations, that they were separated from other Nations, and so were called the <hi>Holy Seed,</hi> 9 <hi>Ezra</hi> 2. 7 <hi>Deut.</hi> 6. and 14.2. But now to this Anabaptist.</p>
+            <p>
+               <hi>That the old or first Covenant, for their incovenanting is repealed, is plain,</hi> saith he,
+<note place="margin">
+                  <hi>Pag.</hi> 9.</note> proved. <hi>He took away the First, that he might establist the Second,</hi> 10 Heb. 9.</p>
+            <p>I answer, These Terms <hi>Old</hi> and <hi>First</hi> are given to the Covenant God made with <hi>Ifrael,</hi> after he brought them out of the Land of <hi>Egypt,</hi> 8 <hi>Heb.</hi> 9, 13. But <hi>Abraham</hi>'s Covenant, which was made about 400 Years before this Covenant, when <hi>Isaac</hi> and his Seed were not yet born, to go into <hi>Egypt</hi> [which is the Covenant in question] is not so called. So that you begin with your So<g ref="char:EOLhyphen"/>phistry already. <hi>Ignoratio Elenchi.</hi>
+            </p>
+            <p>As to the Text, Did you observe the Coherence? It seems you did not. See then 10 <hi>Heb.</hi> 4. the Apostle Asserted, <hi>That it was impossible for the Blood of Bulls and Goats to take away Sin.</hi> He proves it, <hi>v.</hi> 5. from Christ's bespeaking his Father when he came into the World, 40 <hi>Psal.</hi> 6. where he enumerates all the Sacrifices for the Expiation of Sin, <hi>v.</hi> 5, 6. <hi>Lo I come, saith Christ,</hi> v. 7. The Apostle repeats the whole Testimony, <hi>v.</hi> 8. Then God shewing his Acceptance of this Sacrifice of Christ, <hi>v.</hi> 9. he concludes, <hi>He took away the First, that is,</hi> all the Levitical Sacrifices, <hi>and stablished the Second,</hi> that is, the Sacrifice of Christ. What is this to the repealing our Father <hi>Abraham</hi>'s Covenant? Are Sacrifices things visible, palpable, the same things with a Covenant, <hi>To be the God of</hi> Abraham, <hi>and his Seed for ever?</hi>
+            </p>
+            <p>Let me try your 2d. <hi>'Tis said that</hi> Hagar <hi>and her Son are cast out,</hi> viz. <hi>The Le<g ref="char:EOLhyphen"/>gal Covenant,</hi> [I say so too: But Sophister, you are still beside the Question; speak <hi>ad idem,</hi> if you will dispute; 'tis <hi>Abraham</hi>'s, not <hi>Sinai</hi>'s Covenant, that is the Question] <hi>and fleshly Seed, and no new Law is added to bring them into the Go<g ref="char:EOLhyphen"/>spel-Church by Baptism,</hi> i. e. <hi>the fleshly or natural Seed as such.</hi> [I say so too, no fleshly Seed that cleave to <hi>Hagar</hi>'s Covenant shall be Baptized.] Then you add, <hi>Now is the Ax laid to the root of the tree,</hi> 3 Matth. 10.</p>
+            <p>Wherefore is this Text quoted? The Question was, Whether God hath nulled our Father <hi>Abraham</hi>'s Charter, does this Ax cut it down?</p>
+            <p>I pray give us the Sense of this Text. I suppose this Ax will cut down an Anabaptist tho he be <hi>Dipt,</hi> if he does not bring forth good Fruit.</p>
+            <p n="2">2. But what must the poor Children [for so is our question about <hi>Children</hi>] be cut down because they bear not Fruit? You will not allow them any Seeds of <hi>Faith</hi> or <hi>Grace;</hi> and what, must we look to reap Wheat, where no Seed is sown? To bear Fruit, and have no Root?</p>
+            <pb n="4" facs="tcp:192262:4"/>
+            <p>3. If it respects the whole Church of the Jews, if the Parents be cut down, the Children are too, I yield; but that still is beside the Question: For our Question is, <hi>the Parents standing, are the Children cut off?</hi>
+            </p>
+            <p>This is all this Author brings to prove the repealing of our Father <hi>Abraham</hi>'s Covenant.</p>
+            <p>One thing I observe in several of your Pages, because you would be sure to exclude Children from Baptism, you describe the <hi>Subjects</hi> of Baptism, by the <hi>Acts</hi> of such Graces, and Spiritual Works in their Hearts, which Children can<g ref="char:EOLhyphen"/>not perform.</p>
+            <p>And I say, if such <hi>only</hi> be the Subjects of Baptism, and Ministers bound to baptize <hi>only</hi> such, I would never baptize Child nor Adult Person while I live. You Anabaptist may, who can see into Mens Hearts, which we poor things can<g ref="char:EOLhyphen"/>not do.</p>
+            <p>I pray, Sir, let a <hi>Visible Believer</hi> be the Subject of Baptism.</p>
+            <p n="1">1. I am sure 'tis a <hi>Visible Ordinance</hi> given to a <hi>Visible Church.</hi>
+            </p>
+            <p n="2">2. <hi>Simon Magus</hi> believed, and was baptized, 8 <hi>Acts</hi> 13. Was <hi>Philip</hi> blamed for baptizing him?</p>
+            <p n="3">3. Whence is it, that some of your <hi>Dipt</hi> Members walked pretty soberly before Dipping, but after Dipping grew very vitious; and others not only fell off from their Dipt Societies, but [which with you I believe is an hainous Sin] joyned with the Church of <hi>England,</hi> zealous for the Common-Prayer-Book, and the Appurtenances, [which your Mr. <hi>Tombes</hi> the <hi>Antisignanus</hi> of the Anabaptists, improved his Learning to defend] grew meer Formalists. Surely those were but <hi>Visible Believers</hi> when you <hi>dipt</hi> them. I could speak much to this, and that with trembling, how far Men have gone, and lived for 10, 20 Years, so as none of your Dipt Members did exceed them, that might well be baptized, yet how they ended, is sad to speak.</p>
+            <p>As to <hi>Acts</hi> of Grace, I pray tell us, Are not infused Habits before Acts? Are not Principles before Operations? Are not Seeds before Fruits? I pray give us a Reason, why if God giveth or infuseth a Principle of <hi>Love, Fear</hi> of his Name, or any other Grace in the Heart of a Child, why not as well the Prin<g ref="char:EOLhyphen"/>ciple, the Habit, the Seed of Faith? I regard not Dr. <hi>Taylor</hi>'s Authority, whom you and your other Anabaptists so cry up; what he was, the pious, Orthodox and learned Mr. <hi>Anthony Burgess,</hi> hath described him to be an <hi>Hotch Potch</hi>
+               <note n="*" place="margin">Errors in the Doctrin of Original Sin, as in other Points.</note>, <hi>&amp;c.</hi> I believe our Lord Jesus before Ten Dr. <hi>Taylors,</hi> That every Child which goes to Heaven must be <hi>regenerated;</hi> the Filth they bring with them must be cleansed, <hi>Without Holiness, they shall not see Heaven.</hi> Whoever is born a <hi>Child of Wrath by nature,</hi> must first be reconciled and justified, else must not stand at the Barr of God; and if this can be without a Principle of Faith, and all other Graces, let him give us but the Word of our Lord for it, then I believe him. Can you Anabaptist or Dr. <hi>Taylor</hi> tell us infallibly, <hi>how</hi> God works, and <hi>what</hi> God works in Childrens Souls, when you cannot tell us how he frames the Body
+<note n="*" place="margin">11 Ec<g ref="char:EOLhyphen"/>cles. 5.</note>? Hath God tied up himself to the <hi>Ears,</hi> to <hi>Preaching,</hi> because Faith comes by <hi>Hearing</hi> to the Adult?</p>
+            <p>What if the Child [suppose <hi>Isaac</hi>] cannot Act, cannot God Act? Does the Ordinance depend only upon the Child, or Baptized Person? Hath God no<g ref="char:EOLhyphen"/>thing to do in it? Did God institute <hi>Circumcision,</hi> which had its Spiritual Signi<g ref="char:EOLhyphen"/>fications as well as Baptism, adding such a Threatning to them that dare omit it?
+<pb n="5" facs="tcp:192262:4"/>The Circumcised Child could not Act, did not God Act,
+<note place="margin">I know no such differ<g ref="char:EOLhyphen"/>ence be<g ref="char:EOLhyphen"/>tween Cir<g ref="char:EOLhyphen"/>cumcision and Bap<g ref="char:EOLhyphen"/>tism, that Children may not be as capable of this, as of that. Children have need of the things signified in Baptism.</note> when and where he pleased, as to the inducing these Spiritual things signified in the Ordinance; while Man Circumcised the Flesh, did not God Circumcise the Heart where he pleased? Did God Institute the Ordinance in <hi>vain?</hi> The most Saints that we read of in the Old Testament, were such from their Childhood; you rarely read of Converts after a wicked Life.</p>
+            <p>As to what you say, <hi>p.</hi> 19. <hi>They who were baptized, did experience the Death of Sin in their Souls before they were baptized, but Children cannot.</hi> There<g ref="char:EOLhyphen"/>fore, &amp;c.</p>
+            <p>Say you so? Did all that <hi>John</hi> baptized experience; nay, did the Converts in 2 <hi>Acts,</hi> the <hi>Jaylour</hi> in the 16 <hi>Acts,</hi> experience the Death of Sin in their Souls before they were baptized? What, in three or four hours space to come to <hi>experience</hi> the Death of Sin, when many Christians who walk with God as well as Anabaptists, after Ten, after Twenty Years Spiritual Warfare, if you put the Question to them, Do you <hi>experience</hi> the Death of Sin? With sadness of Heart will tell you, They experience the <hi>Life</hi> of Sin, and fear very much their own Condition, because they cannot experience the Death of Sin more. What, because of the Conviction of some vile Sin, and Terrors upon that Conviction, Sin under this Conviction and Terror doth not act as before, is this an Experience of the Death of Sin? What Divinity do these Anabap<g ref="char:EOLhyphen"/>tists broach?</p>
+            <p>But now to <hi>Baptizing. May the Children of Visible Believers be baptized?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Section </seg>2</label> I say <hi>Yea.</hi> Both these Authors say <hi>No. There is no express Command given by Christ to his Apostles to baptize Children,</hi> Ergo. I deny the Consequence.</p>
+            <list>
+               <item>I. Because there was no need why the Lord should give an express Com<g ref="char:EOLhyphen"/>mand to baptize Children.</item>
+               <item>II. Because tho there be no Command <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> declared, yet there is a Com<g ref="char:EOLhyphen"/>mand included in the Command given by Christ to his Apostles, <hi>To teach and baptize all Nations.</hi>
+               </item>
+            </list>
+            <p>For the First, <hi>There was no need.</hi> For all the Apostles were Jews, bred up in the Jewish Church, and they knew the way of God there with Parents and with Children; they were Members with their Parents, in Covenant, and under the Seal of the Covenant. Now had it been the Lords Pleasure to change this his way towards the Gentiles, I am assured that Christ, <hi>who was faith<g ref="char:EOLhyphen"/>ful in his House as a Son,</hi> would have declared and made this known to his Apo<g ref="char:EOLhyphen"/>stles, that Jews and Gentiles should know it, as I am sure he gave them a Command, <hi>To teach and baptize all Nations.</hi> The Apostles would <hi>have declared this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounsel of God.</hi> Let us suppose [as we may well suppose such a thing] those Three Thousand who were admitted into the Gospel Church in the 2 <hi>Acts,</hi> to be all Married Men, their Wives all with Child, and all to be deli<g ref="char:EOLhyphen"/>vered on that Day of Pentecost, when their Husbands were admitted: Had these Women been all delivered by Six in the Morning, their Children had been all born Church-Members, under Covenant, and a right to the Seal of the Covenant; but had they been delivered at Six at Night, when their Hus<g ref="char:EOLhyphen"/>bands were admitted into the Gospel-Church, now their Children, are no Members of this Church, under no Covenant, nor Seal of a Covenant. You
+<pb n="8" facs="tcp:192262:5"/>that call thus for <hi>express Scripture</hi> to baptize them into the Church, do you bring us <hi>express Scripture</hi> for casting their Children out of the Church, and bringing their Children as to these their Priviledges, into the state of the Heathen; [the thing is so evil, and lay such a Block in the way of the Go<g ref="char:EOLhyphen"/>spel's Reception] else all your Scribling signifies nothing.</p>
+            <p>As to that Question, about the Jews admitting Proselytes into the Jewish Church, with <hi>Circumcision, Baptism, and a Sacrifice,</hi> if the Question <hi>be stated thus, Whether this be true or no?</hi> I Answer, So far as I may believe any thing with a Humane Faith, I believe it to be true. Observe how I state the Question, If <hi>Rabbi Joshua</hi> saith, they were <hi>Baptized,</hi> and not <hi>Circumcised,</hi> this is plainly against the Text. If <hi>Eliezer</hi> say they were Circumcised, and not Baptized. There are divers others whom Dr.
+<note place="margin">
+                  <hi>Buxtorf, Selden, Ainsworth, Lightfoot,</hi> Men ver<g ref="char:EOLhyphen"/>sed in the Jewish Writings as much as Sir <hi>N. Knatchbull,</hi> affirm this.</note>
+               <hi>Lightfoot</hi> quotes, affirming they were Cir<g ref="char:EOLhyphen"/>cumcised and Baptized. And one thing is observable, whereas it is objected, <hi>Why should Children be baptized, since they have no Ʋnderstanding?</hi> They Answer, <hi>It is a Tradition: They priviledge a Person, tho he know it not; but they do not dis<g ref="char:EOLhyphen"/>priviledge a Person without his knowledg.</hi> This is good; a Priviledg may be put upon a Person [a Child Baptized as well as Circumcised] tho he himself knows not of it. Thus the Jews.</p>
+            <p>Both of you cry out, <hi>Superstition,</hi> God commanded only <hi>Circumci<g ref="char:EOLhyphen"/>sion.</hi>
+            </p>
+            <p>Stay a little, not too fast. While the Church was in Families, the Fathers were the Priests, the Lord commanded only Circumcision to the Jews; but when he gathered all these Families into one Church, set up his Polity in it, and made his Covenant with them as a National Church at <hi>Sinai,</hi> he required more than Circumcision, <hi>they must wash their Cloaths,</hi> 19 <hi>Exod.</hi> 10. I do not think there was Water enough to dip all the Congregation in the Wilderness. The Command is given to the <hi>People,</hi> not only to the Adult: Their Children were part of the <hi>People</hi> I hope. So <hi>Jacob,</hi> 35 <hi>Gen.</hi> 2. <hi>All his Houshold must be clean,</hi> and change their Garments. There was the Sacrifice, 24 <hi>Exod</hi> 5.</p>
+            <p>Upon these Texts of Scripture, the Jews say, they ground the Admission of Proselytes into their Church: As <hi>Israel</hi> was taken into Covenant, so shall the Heathen Proselytes, by <hi>Circumcision, Baptism,</hi> and a <hi>Sacrifice.</hi> Why they should be admitted otherwise than the Jews, I know no reason. After they were incorporated, their after-Children were not Baptized, so far as I understand. I wish there were no Superstition worse than this in Churches.</p>
+            <p>According to this, there was no need for Christ to give Command to bap<g ref="char:EOLhyphen"/>tize Children, for it was in Practice Hundreds of Years before <hi>John</hi> bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>
+               <hi>If it was Superstitious,</hi> as you say, then there was more need of a Com<g ref="char:EOLhyphen"/>mand from Christ to forbid it, which he would have done be sure.</p>
+            <p>The Ground of this Practice of the Jews with Proselytes, was as old as <hi>Sinai</hi>'s Covenant.</p>
+            <p>The Baptism of <hi>John</hi> was to another end, not to admit into the Jewish Church; for here <hi>Adult</hi> Jews in great Numbers, were in a solemn, publick, un<g ref="char:EOLhyphen"/>usual manner baptized: The Pharisees did not question what his Baptism was, nor what it meant; but they questioned his Person, his Authority, being that he denied, that he was either the <hi>Messiah,</hi> or <hi>Elias,</hi> or <hi>that Prophet;</hi> which does not deny, but Baptism in Admission of Proselytes was in Practice be<g ref="char:EOLhyphen"/>fore.</p>
+            <pb n="7" facs="tcp:192262:5"/>
+            <p>2ly. I say there was a Command included, in that Command our Lord gave to his Apostles, <hi>To Teach and Baptize all Nations.</hi> Teach the Parents <hi>First,</hi> and if they embrace the Gospel, then baptize their Children, tho as yet not capable of teaching, no more than <hi>Isaac</hi> was; but I doubt not by rea<g ref="char:EOLhyphen"/>son of the Covenant <hi>Isaac</hi> was reputed as his Father was. I look on all the Children I baptize, as Believers with their Parents, who do Educate them in the Faith of Christ, else I would baptize none. 11 <hi>Rom.</hi> 16. <hi>If the Root be Holy, so are the Branches.</hi> If the Parent be a Believer in Christ, so are the Children
+<note n="*" place="margin">
+                  <hi>If a Pa<g ref="char:EOLhyphen"/>rent be a Disciple of</hi> Moses, <hi>so is the Child.</hi>
+               </note>. If the Parent be a <hi>Mabumetan,</hi> the Children are so too; they go with the Parent. In all <hi>Nations, Cities, Houses,</hi> the Children are a part of them all.</p>
+            <p>
+               <hi>But we must have express Scripture; away then with Consequences.</hi> No, I will not. There is no Adult Person baptized, but 'tis by consequence: Deny it if you can: Then we will trie if we cannot prove Children of Visible Believers to be baptized by consequence.</p>
+            <p>No less than Seven Syllogisms, <hi>Philalethes</hi> brings against it. His last is, <hi>'Tis substantially, and severely forbidden by the Word of God, to baptize Children.</hi> I wonder where? If it be <hi>Substantially,</hi> must it be <hi>Severely</hi> too? Name the Texts.</p>
+            <p>But for all your high Words, and your provoking Language, loading the <hi>Athenian Authors</hi>
+               <note n="*" place="margin">Surely they were bred Scho<g ref="char:EOLhyphen"/>lars not Taylors.</note>, [unknown to me by Name] with as much Contempt and Scorn, as I have read a Piece a good while. Before you shall take us off from performing our Duty to God, by Dedicating our Children to God in Baptism, He having a double Right to them; 1. By <hi>Nature.</hi> 2. By <hi>Covenant;</hi> we prizing, not contemning his Grace, manifested in his Covenant, you must do these things.</p>
+            <p>
+               <hi>First,</hi> You must name the Text, where the Lord hath <hi>expresly</hi> repealed our Father <hi>Abraham</hi>'s Covenant, and cut off the Entail from his Seed, as he hath done other Covenants.</p>
+            <p>
+               <hi>Secondly,</hi> You must prove that God makes Covenants without Seals; That our Father <hi>Abraham</hi>'s Covenant standing, there must be no Seal annexed to it, as it was before. Tho Circumcision being a <hi>bloody</hi> Seal, must of necessity be removed [Christ having shed his Blood] yet there must be ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <hi>Thirdly,</hi> You must prove, that our Lord, when he took away the <hi>Partition-Wall</hi> between the Jew and Gentile, <hi>Ephes.</hi> 14. set up the <hi>Partition-Wall</hi> be<g ref="char:EOLhyphen"/>tween the <hi>Believing Jew, and his Children;</hi> and now brought the Children of Believing Jews, as to <hi>Church-Membership, Covenant,</hi> and <hi>Seal of the Covenant,</hi> into that Condition Heathens and Children were in before their Faith in Christ.</p>
+            <p>
+               <hi>Fourthly,</hi> You must prove that it was Christ's intent and purpose by his coming, to make the state of the Church under the Gospel, to be far worse, as to <hi>Parents</hi> and <hi>Children,</hi> than it was under the Law: It is so be sure by your Doctrine: Then, Parents and Children had a Covenant to plead and
+<pb n="8" facs="tcp:192262:6"/>lay hold upon God by, but now none; then they had a Seal of a Covenant to strengthen their Faith and improve, but now there is none. Such Pa<g ref="char:EOLhyphen"/>rents, and such Children as have improved [as there are such] their Father <hi>Abraham</hi>'s, and their Baptismal Covenants, and have found the benefit of them, they would not be without them, let the Anabaptists make as light of them as they please. It is <hi>de facto,</hi> a worse state, Reason it self being Judge. Do you prove that Christ intended it. I believe our Lord, who when he was upon Earth, shewed himself so indulgent and kind to poor Children, will hardly give you Thanks for this Dishonour you have cast upon him.</p>
+            <p>
+               <hi>Fifthly,</hi> You must prove that the Apostles Discourse in 2 <hi>Ephes.</hi> from the 13 <hi>v.</hi> to the end of the Chapter, is in great part <hi>false:</hi> For it is evident that the end of his Discourse is to shew, That however our Estate as <hi>Gentiles</hi> before Christ, was in it self, and comparatively with the Jews, <hi>v.</hi> 11, 12. very mise<g ref="char:EOLhyphen"/>rable, yet now by Faith in Christ, both as to Saving, and as to Church-Priviledges, [for He expresly mentions Church-Priviledges] our state is as good as the Jews ever was, or is: That the Apostle in 2 <hi>Col.</hi> 11, 12. intends that Baptism [the initiating Ordinance into the Gospel-Church] doth succeed in the room of <hi>Circumcision,</hi> [the initiating Ordinance into the Jewish Church] <hi>Zanchy,</hi> and the most Learned Expositors that I see, agree. And that it is so, the Apostles Discourse in this 2 <hi>Ephes.</hi> 11. will clear it. The Jews were Cir<g ref="char:EOLhyphen"/>cumcised, but we Gentiles Uncircumcised: Now how is this part of our Mi<g ref="char:EOLhyphen"/>sery as it was a Church-Priviledge taken off,
+<note place="margin">
+                  <hi>I know ve<g ref="char:EOLhyphen"/>ry well how it is taken off,</hi> 2 <hi>Col.</hi> 11. <hi>but I speak as to a Church-State.</hi>
+               </note> but by <hi>Baptism,</hi> another Church-Priviledge? And who were the Subjects of <hi>Circumcision</hi> we all know. I know the Anabaptists do not like it, no more than that young Scholar in <hi>Oxford,</hi> whom that Learned <hi>Reynolds</hi> in his Lectures on the Apocrypha twice mentions, who in his Disputation, would ever deny the <hi>Conclusion.</hi> He did nor like that, because it was ever against him.</p>
+            <p>
+               <hi>Sixthly,</hi> You must prove that we Believing Gentiles are not grafted into that Olive-Tree, 11 <hi>Rom.</hi> 17. from which the Branches were broken off; and that to have our Children with our selves, under a Blessed Covenant, and the Seal of the Covenant, as those Branches were, to help our Faith, to lay hold upon God for our God, is no part of the Fatness of the Olive-tree. We take it to be so, and have many times blessed God for it.</p>
+            <p>
+               <hi>Seventhly</hi> and <hi>Lastly,</hi> You must prove, that when we poor Gentiles have embraced our dear Jesus by Faith, taken him for our Prince and Saviour, that now our Children are as <hi>unclean,</hi> as they were while we were Heathen and Un<g ref="char:EOLhyphen"/>believers in him, contrary to 1 <hi>Cor.</hi> 7.14.</p>
+            <p>Here are Seven things to answer your Seven Syllogisms. If you can <hi>ex<g ref="char:EOLhyphen"/>presly</hi> prove the <hi>first,</hi> [I stand upon the Word <hi>Expresly</hi> here, because God hath <hi>expresly</hi> repealed; and you call for <hi>express</hi> Scripture for Infant-Baptism, and I hope you will be honest Men, buy and sell by the same Measure] and if you will <hi>Substantially</hi> and <hi>Severely</hi> prove the other; then, Sir, whereas you have made <hi>Seven</hi> Syllogisms, <hi>one</hi> might have served the turn: But if you cannot do thus, then if you add Ten Syllogisms more, which make Seventeen in our
+<pb n="9" facs="tcp:192262:6"/>County, you must give us leave to go on to Baptize the Children of Believing Parents. I call him or her a Believer in Christ, who 1. Is convinced and sensible of his own Sin and Guilt, and the dreadful Danger of it. 2. Who feels himself helpless and hopeless in himself. 3. Willing to accept of Christ upon his own Terms. 4. His Conversation doth not give the plain Lie to this his Profession. 5. Gives up himself to All the Institutions of Christ with Church-Discipline. This Man I call a <hi>Visible Believer,</hi> tho there may be much Hypocrisie under this, but <hi>De secretis non judicat Ecclesia.</hi> And this Man's Children I shall not fear to baptize.</p>
+            <p>That you are all baptized <hi>by consequence,</hi> you must yield it.</p>
+            <p>
+               <hi>He that beleiveth may be baytized. But I beleive.</hi> Ergo. Is not this baptizing by consequence, and can you baptize any other way?</p>
+            <p>I will take your <hi>Medium,</hi> which you stand much upon.</p>
+            <p>The Children of Visible Believers are Believers. <hi>Therefore</hi> they ought to be Baptized. They are <hi>reputed</hi> so by God.</p>
+            <p>For the Antecedent. <hi>They are Believers, or Infidels; but they are not Infidels.</hi> Therefore <hi>they are Believers.</hi>
+            </p>
+            <p>Believers and Unbelievers are <hi>Adversa</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one of them they must be.</p>
+            <p>They are not <hi>Infidels</hi> I prove.</p>
+            <p>They that have a <hi>Jus,</hi> a Right to Promises, and may, if they were able to speak, claim a Promise of God, are not <hi>Infidels.</hi>
+            </p>
+            <p>But the Children of some believing Parents have a right to Promises, and might plead them the first Day they are born, if they could speak. <hi>Therefore</hi> they are no Infidels.</p>
+            <p>The <hi>Major</hi> I think cannot be denied. Tell us where there is any Promises made to Infidels, which they remaining <hi>such,</hi> may plead.</p>
+            <p>The <hi>Minor</hi> I prove. 112 <hi>Psal.</hi> 2. <hi>The Generation of the Ʋpright shall be blessed.</hi> 20 Exod. 6. <hi>Shewing Mercy unto thousands of them that love me,</hi> &amp;c. 20 Prov. 7. <hi>The just Man walks in his Integrity, and his Children are blessed after him.</hi> 44 Isa. 3. <hi>I will pour my Spirit upon thy Seeed, and my Blessing upon thy Offspring,</hi> &amp;c.</p>
+            <p>Children of such Parents have a Right to these Promises, and may plead with God for <hi>Blessing</hi> [choose what Blessing they will, <hi>Christ</hi> himself in whom All <hi>Abraham</hi>'s Seed are blessed] <hi>Mercy,</hi> his <hi>Spirit;</hi> and that by vertue of his Free Promise to them, as Children of such Parents, whom he is freely pleased thus to Honour, that their Children shall fare better for them, have they but Hearts to improve them.</p>
+            <p n="2">2ly. They with whom God is in Covenant are no <hi>Infidels.</hi> But God is in Covenant with the Seed of Believers. <hi>Therefore</hi> they are no Infidels. Tell us where God is in Covenant with Infidels?</p>
+            <p>The Child of a Believing Parent, is a <hi>Subjectum Capax</hi> of <hi>Faith,</hi> as it is of <hi>Regeneration.</hi> Faith is a Gift of God to the Adult. He can give it as well to the Child as to another; and if God will <hi>repute</hi> them for Believers, having taken them into Covenant, what is that to you, shall you oppose it?</p>
+            <p>His Pleasure was to give to <hi>Abraham</hi> first [to <hi>Isaac</hi> and <hi>Jacob</hi> after] the Promise of the <hi>Blessed Seed,</hi> and he Believing, to make him be called, the <hi>Father of them that believe, tho they be not Circumcised,</hi> 4 <hi>Rom.</hi> 11. <hi>The Father
+<pb n="10" facs="tcp:192262:7"/>of us all,</hi> 16 <hi>v. Of many Nations, v.</hi> 18. which is, <hi>By vertue of his Covenant with him and his Seed.</hi> Circumcision, <hi>The Seal of the Righteousness of Faith,</hi> which he calls <hi>His Covenant,</hi> must be administred not only to <hi>Isaac</hi> his own Seed, at eight Days old, but also to the Child of a <hi>Gentile-Proselyte</hi> of the same Age, 17 <hi>Gen.</hi> 12. All that bore his Seal, were his Seed: This concerns us Gen<g ref="char:EOLhyphen"/>tiles, and shall they who are his Seed be called <hi>Infidels?</hi> Does God repute and call them so, when he calls them <hi>his Chiidren?</hi> 16 <hi>Ezek.</hi> 20, 21. and 23 <hi>chap.</hi> 37. Why then do you make them so?</p>
+            <p>I have heard a grave Disputation in <hi>N. E.</hi> between those Worthies, Mr. <hi>Cot<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Tho. Hooker,</hi> Mr. <hi>Shepherd,</hi> &amp;c. Q. <hi>Whether we are justified by the Act, or Habit of Faith?</hi> Mr. <hi>Cotton</hi> was for the <hi>Habit of Faith.</hi> Mr. <hi>Hooker</hi> he owns the <hi>Habit of Faith,</hi> and doth not doubt but God gives it to Children. <hi>Ca<g ref="char:EOLhyphen"/>lovius</hi> a Learned <hi>Lutheran,</hi> he gives several Reasons to prove that little Children may have Faith. Why the Faculties of the Rational Soul in Children should not be capable to receive a Divine Impression from God, as well as of the Adult, when both are <hi>Passive</hi> in that Work of Regeneration, I cannot under<g ref="char:EOLhyphen"/>stand.</p>
+            <p n="3">3ly. They who are <hi>Saints</hi> are not <hi>Infidels.</hi> But the Children of Believing Parents are <hi>Saints,</hi> 1 <hi>Cor.</hi> 7.14. They that will have their <hi>Saintship</hi> there to be only <hi>Legitimacy,</hi> I question whether their Brains be Legitimate. Then the Apostle, 1 <hi>Cor.</hi> 1.2. and 2 <hi>Cor.</hi> 1.1. by the <hi>Saints,</hi> understand those that are <hi>Legiti<g ref="char:EOLhyphen"/>mate.</hi> Where are <hi>Infidels</hi> called <hi>Saints?</hi>
+            </p>
+            <p n="4">4ly. They who are Members of the Church are not <hi>Infidels.</hi> But the Chil<g ref="char:EOLhyphen"/>dren of Believing Parents are Members of the Church with their Parents. <hi>Therefore</hi> they are not <hi>Infidels.</hi>
+            </p>
+            <p>The <hi>Minor</hi> I proved from 2 <hi>Ephes.</hi> 19. We will take Christ's Word for it, 19 <hi>Mat.</hi> 14: <hi>Of such is the Kingdom of Heaven.</hi> The <hi>Kingdom of God,</hi> saith <hi>Luke,</hi> 18 <hi>Luke</hi> 16. That the Church on Earth is here meant, I doubt not; un<g ref="char:EOLhyphen"/>less there be some other Word joyned, which will force it to be meant of the Church Triumphant. 8 <hi>Matth.</hi> 12. <hi>The Children of the Kingdom shall be cast out.</hi> Out of <hi>what Kingdom?</hi> Not Heaven above, I hope. You will have it, <hi>the Kingdom of Glory,</hi> because it makes against you. But what do you get by it, if it should be meant so? Shall they be Members of the Church <hi>Triumphant,</hi> and not <hi>Militant</hi> first? Of the Kingdom of <hi>Glory,</hi> and not the Kingdom of <hi>Grace</hi> first? What strange Doctrins have we here?</p>
+            <p>Hence being Members of the Church, they must be baptized; the Initiating Ordinance of the Church belongs to them.</p>
+            <p>And it is further proved from 5 <hi>Ephes.</hi> 25, 26. <hi>Christ loved the Church, and gave himself for it, that he might sanctifie and cleanse it with the washing of Water;</hi> that <hi>Baptism</hi> is meant here by <hi>washing with Water.</hi>
+            </p>
+            <p n="5">5ly. They that are <hi>Christian Disciples</hi> are Believers. But the Children of Be<g ref="char:EOLhyphen"/>lieving Parents are such, 15 <hi>Acts</hi> 1.10. compared with 21 <hi>Acts</hi> 21. Had Cir<g ref="char:EOLhyphen"/>cumcision been in force, the Children of these Believing Gentiles had been Circumcised: But the Ground of it was, because they were <hi>Disciples</hi> first. 'Tis enough for me they were reckoned among <hi>Disciples.</hi>
+            </p>
+            <pb n="11" facs="tcp:192262:7"/>
+            <p>
+               <hi>Water,</hi> all agree in it, that I see; nor do I know any shadow of Reason why any should deny it. The <hi>Invisible</hi> Church is contained in the <hi>Visible</hi> Church; and <hi>washing it with Water,</hi> is a Visible Ordinance belonging to the Vi<g ref="char:EOLhyphen"/>sible Church, and some Children of Godly Parents do belong to the Invisible Church. <hi>Christ gave himself a Ransom for his Church,</hi> 25 <hi>v.</hi> If they be not of the Church, Christ did not die for the Children. Mr. <hi>Grantham</hi> tells you he died for all.</p>
+            <p n="5">5ly. As for the <hi>Mark in the Flesh,</hi> which you mention, <hi>p.</hi> 12. which was <hi>made by Circumcision, from whence they might learn Spiritual things,</hi>
+            </p>
+            <p n="1">1. I Answer, Let these Circumcised Children be let alone with their <hi>Mark,</hi> and neither Parent, not any other instruct them, what the meaning and signifi<g ref="char:EOLhyphen"/>cation of it is, and see what they will learn from their Mark. So that it de<g ref="char:EOLhyphen"/>pends wholly upon the Teacher to learn them how to make use of it. And thus Parents having instructed their Children in the Nature of their Baptism, and taught them to pray for the Benefits of their Baptism, have come to un<g ref="char:EOLhyphen"/>derstand their Baptism, as much as they their Circumcision. I have known it, when the Parent Catechising his Children, and turning the Substance of their Catechism into a Form of Prayer, and their Baptism with it, they have un<g ref="char:EOLhyphen"/>derstood it, and improved it, as much as many, if not most, of your Adult Dipt Persons.</p>
+            <p n="2">2. What if the Circumcised Jew die before he be a Year or two old, what does he learn from his <hi>Mark?</hi>
+            </p>
+            <p n="3">3. I said before, God hath something to do in the Ordinance, and not the Child only.</p>
+            <p n="4">4. As to what they object against Children, because they cannot put forth any Acts of Grace, this strikes as much against God's Wisdom in appointing <hi>Circumcision:</hi> They had best teach him how he should appoint his Ordi<g ref="char:EOLhyphen"/>nances.</p>
+            <p>Tho Children were Circumcised on the Eighth Day, yet they were not to eat of the Passover till they were about 10 or 12 Years old, when by their Parents Catechising of them, while the Lamb was taken up on the Tenth Day, they were instructed in the meaning of the Passover. But to understand the mean<g ref="char:EOLhyphen"/>ing of the Lord's Supper, is much harder, being wholly Spiritual.</p>
+            <p>Then we come to another Q. <hi>p.</hi> 11. <hi>Why Sprinkling, not Dipping?</hi>
+               <note place="margin">
+                  <hi>Section</hi> 3. <hi>I have ta<g ref="char:EOLhyphen"/>ken peculiar notice of the words of our Liturgy here, so that your Author is mistaken, the thing is very well.</hi>
+               </note>
+            </p>
+            <p>I wonder the <hi>Athenian Gentlemen</hi> would admit this Question These Ana<g ref="char:EOLhyphen"/>baptists keep such a Prating and Scribling about <hi>Sprinkling,</hi> when I know no Sprinkler, no such thing in Practice that I know or hear of. I suppose they are Gentlemen of the Church of <hi>England,</hi> by the Answer they give to the Question: But they have wronged their Church and Common-Prayer-Book, which command no such thing. The Book speaks only thus, <hi>The Minister shall dip the Child in the water, so it be discreetly and warily done; and if the Child be weak, it shall suffice to pour water upon it.</hi> But not one Word of <hi>Sprinkling.</hi> With what Face then do these Anabaptists make such a Clamour about such a
+<pb n="12" facs="tcp:192262:8"/>Word and Thing, which is not. Both of your Books have given us a <hi>Speci<g ref="char:EOLhyphen"/>men</hi> of your Critical Learning, in teaching us what every body knew before, forsooth. What <hi>Baptizo</hi> signifies, <hi>viz.</hi> To Dip, or plunge under Water: But still both of you write as <hi>Deceivers;</hi> Why did you not put the Word <hi>Only</hi> in, that it signifies <hi>only to Dip;</hi> which of your Cloud of Witnesses say it does so? We should soon confute them out of Scripture, 9 <hi>Heb.</hi> 10. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He does not say, there were divers things <hi>Baptized,</hi> whicih is true; but <hi>Divers Baptisms.</hi> But if there be <hi>only one way</hi> to <hi>Baptize,</hi> viz. By Dipping, then the Word <hi>Divers</hi> must be left out. So that we may baptize some other way beside <hi>Dipping.</hi>
+            </p>
+            <p>I cannot but observe the 7 <hi>Mark</hi> 3. In this Verse the Pen-man uses <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, For <hi>washing,</hi> in the 4 <hi>v.</hi> he changes the Word, and uses the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Do the Anabaptists Wives, when their Tables are foul, car<g ref="char:EOLhyphen"/>ry them to the Ponds or Rivers to baptize them? Do they not <hi>pour</hi> Water, and so baptize them? The Word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Did the Pharisees baptize their Beds, by plunging them under Water? What, to spoil them? How often of late have I seen a Person baptizing of <hi>Vessels,</hi> by pouring Water into them, but not by Dipping?</p>
+            <p>How were they baptized in the Cloud and in the Sea, 1 <hi>Cor.</hi> 10.2. By Dipping? Were there no Children baptized at that time? What a strain of Wit does Mr. <hi>Danvers</hi> shew to make it serve his turn? But in vain.</p>
+            <p>I doubt not when <hi>Elijah</hi> baptized his Hands, by <hi>Elisha</hi>'s pouring Water up<g ref="char:EOLhyphen"/>on them, his Hands were as clean as any Anabaptists are by <hi>Dipping,</hi> 11 <hi>Luke</hi> 38. with 2 <hi>Kings</hi> 3 11 <hi>v.</hi>
+            </p>
+            <p>I have met with no Lexicographer as yet, but render the Word by <hi>Abluo, Lavo,</hi> [so <hi>Castelio,</hi> tho he were now a better Critick than any Anabaptist] as well as <hi>Immergo.</hi> And that's the reason why all the Translations I see, use the greater, <hi>Baptize;</hi> because if they Translate it <hi>Dipping,</hi> they do not give the full signification of the Word. He that translates the Dutch into English, translates it <hi>Baptize</hi> every where.</p>
+            <p>How do both these Authors insult over the <hi>Athenian Gentlemen,</hi> charging them with strange and prodigious Ignorance, for requiring a Proof of <hi>Female Bap<g ref="char:EOLhyphen"/>tism,</hi> by <hi>Dipping,</hi> they meant, if they did not express it, and the Printer omit<g ref="char:EOLhyphen"/>ted it. But how I should prove invincibly <hi>Paul</hi> baptized <hi>Lydia;</hi> yea, and the <hi>Jaylour,</hi> and others, by <hi>Dipping,</hi> I cannot tell; if they can, let them.</p>
+            <p>My Thoughts are these, <hi>Christ was manifested to take away Sin,</hi> 1 <hi>John</hi> 3.5. This <hi>taking away of Sin,</hi> is set forth several ways. As <hi>First,</hi> By <hi>Sprinkling,</hi> 36 <hi>Ezek.</hi> 25. 12 <hi>Heb.</hi> 24. 1 Pet. 1.2. <hi>Secondly,</hi> By <hi>Burial,</hi> in two places only, 6 <hi>Rom.</hi> 4. 2 <hi>Colos.</hi> 12. 3ly. By <hi>Washing, Cleansing;</hi> and this more than any other way, 5 <hi>Ephes.</hi> 26. 3 <hi>Tit.</hi> 5. 1 <hi>Revelat.</hi> 5. 1 <hi>John</hi> 1.7, 9. 9 <hi>Heb.</hi> 14. 1 <hi>Cor.</hi> 6.11. 22 <hi>Acts</hi> 16. <hi>Paul</hi> being in a City, and in a House, whether he went out of the City to a River to be dipped, I cannot prove it.</p>
+            <p>But however, <hi>washing</hi> is the thing I aim at. The Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not signi<g ref="char:EOLhyphen"/>fying to <hi>sprinkle,</hi> I never use that, nor any Man else that I know; but signi<g ref="char:EOLhyphen"/>fying <hi>washing,</hi> a Word more frequently used: I pour such a sufficient quantity of Water [some time I fear too much] as shall lively shew forth <hi>washing.</hi> Man is known by his Face, not by his Heels: The Rational Soul having its Seat in the Brain, [tho I might pour the Water all over, and so set forth <hi>Burial</hi> after our way more lively than your way] I think it may be sufficient: For I
+<pb n="13" facs="tcp:192262:8"/>understand you <hi>Dip</hi> but part. Now he that is <hi>washed</hi> from his Sin, hath <hi>Sin taken away,</hi> as well as he that hath it taken away by <hi>Burial:</hi> 'Tis <hi>Death,</hi> not <hi>Washing,</hi> is signified in <hi>Burial.</hi>
+            </p>
+            <p>Yet further, I have in the Heat of Summer offered my People to Bap<g ref="char:EOLhyphen"/>tize their Children by <hi>Dipping,</hi> if they will venture it; not because I do not judge the Baptizing by <hi>Washing</hi> to be as regular, but because the Word signi<g ref="char:EOLhyphen"/>fying both, <hi>Washing,</hi> and <hi>Dipping.</hi> And to let the Anabaptists know I am not against <hi>Dipping,</hi> provided there be no <hi>Dipping</hi> of them who were Bap<g ref="char:EOLhyphen"/>tized before; as is the Practice of these Men: Whence it is no Nick-Name to call them <hi>Anabaptists,</hi> as this Author <hi>Philalethes</hi> tells us, but very proper; their Act being <hi>Will-worship,</hi> never instituted by Christ to Baptize Men in his Name twice, I weigh their <hi>Dipping</hi> no more than a Rush, being a meer Cheat.</p>
+            <p>Besides, As they questioned <hi>John</hi>'s Authority, we may well question yours. Prove your Call according to Scripture. Where were the Dipt Churches that called you, and the Dipt Presbytery [or Dipt Bishops if you would have it] that Ordained you regularly? There were Two Apostles at least to Ordain. Trace you to the beginning. The Anabaptists have not yet proved that the Three Thousand Baptized in the 2 <hi>Acts,</hi> were Baptized by <hi>Dipping.</hi> Nor can they prove it: They were <hi>the same Day added to the Church,</hi> 41 <hi>v.</hi> There were not Waters to dip them in; they need not have gone from <hi>Jerusalem</hi> to <hi>Jordan</hi> to be Baptized, 3 <hi>Matth.</hi> 5, 6. had there been Waters at <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi> to Dip in. <hi>John</hi> Baptized in <hi>Jordan,</hi> in <hi>Bethabara,</hi> and <hi>Aenon,</hi> because of <hi>much Water.</hi> He being a Prophet highly esteemed of the People, could as well have gone to <hi>Jerusalem,</hi> and Baptized there, had there been such Wa<g ref="char:EOLhyphen"/>ters at <hi>Jerusalem,</hi> to dip Three Thousand in one Day. What if <hi>he cried in the Wilderness,</hi> 3 <hi>Matth.</hi> 3. at his first beginning to Preach? He could Cry and Preach in <hi>Herod</hi>'s Court afterwards. Nor can they prove that they who were Baptized in Houses were Baptized by Dipping. Dr. <hi>Light<g ref="char:EOLhyphen"/>foot</hi> saith, there was an express <hi>Maxim</hi> among the Jews against Dipping in any Vessel; that they went out to Rivers or Ponds, there is no Word that speaks it: The Apostles were all Jews.</p>
+            <p>We read, 24 <hi>Matth.</hi> 20. and 13 <hi>Mark</hi> 18. in the Destruction of <hi>Jerusalem,</hi> Christ directs his Discidles to <hi>pray their Flight may not be in the Winter.</hi> But they might be well cloathed, tho' it were Winter. Hence I considered as to Circumcision, it might be Administred in any Country, at any time of the Year, it was the same to all. But for Baptism, it is not so. In some Countries the Season so hot, that to refresh themselves, tho' there were no Sacred Baptism, they would Baptize themselves: But in other Countries, Baptizing may well hazard their Health, if not their Lives. Tho some from a Zeal to an Opinion, can endure Dipping, being strong Bodies, as the <hi>Mosco<g ref="char:EOLhyphen"/>vites,</hi> bred up hardly, [but alas! pitiful Churches,] what is this to weaker Bodies and to Children. Christ it seems had a care of the <hi>Winter;</hi> they have the Advantage that dwell in Hot Countries as to Baptism; it was not so in Circumcision. It was said of one of the <hi>Roman</hi> Emperors, <hi>That he would not wish to be</hi> Caesar, <hi>to be obliged to walk through</hi> Britain, <hi>and to endure the Northern Frosts.</hi> It seems <hi>Italy</hi> and <hi>England</hi> are not alike.</p>
+            <pb n="14" facs="tcp:192262:9"/>
+            <p>Nor yet have I done about this <hi>Dipping.</hi> If Christ hath put so much in Dipping as you have done, [to tie Salvation to it, as that silly Woman, <hi>Had I died before I had been Baptized by Dipping, I had perished.</hi> And a Teacher forsooth, told a good plain-hearted Woman, <hi>Repentance, Faith and Good Works are not sufficient without this.</hi> What are they not sufficient for? Whether to a sound Christian to Salvation? You are a Liar and Deceiver, take which you will.] Then would Christ have left it plain how it should be admini<g ref="char:EOLhyphen"/>stred.</p>
+            <p>Both these Mens Books seem to give an Answer to what I never heard questioned,
+<note place="margin">
+                  <hi>Other,</hi> p. 41</note> one <hi>page</hi> 11. <hi>Is it to put the whole Body forward or backward, sideway,</hi> &amp;c? This is not the thing. But the Question is, Are you so strong to take up their whole Bodies, and plunge them under Water; <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so you bury them, and not they themselves in any part? Or do they go into the Water first, whether to the <hi>Knees, Middle,</hi> or <hi>Arm-pits;</hi> [bury themselves so far; among the Jews Women were set up to the Neck,] Then you dip the rest. I pray direct us from the Holy Page, how it should be done, how <hi>John</hi> did it, that we may know how to Administer this Ordinance to Adult Per<g ref="char:EOLhyphen"/>sons not Baptized before according to Scripture, that our Consciences may be satisfied in our Administration. I do seriously seek Light from Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Again, I suppose <hi>John</hi> did stand in the River <hi>Jordan,</hi> and a good while too, when he Baptized so many; must we also stand in the Water when we Baptize? <hi>Jordan</hi> was warmer than our Rivers. Whether they were Baptized in their <hi>Cloaths,</hi> we cannot tell. We can gather nothing from the Apostles, how they Baptized. I can tell how to Baptize a Child, as I said, and would, if Parents would venture it, and satisfie my self, but not an Adult Person.</p>
+            <p>One thing I have heard from a Learned Professor of Divinity in a Fo<g ref="char:EOLhyphen"/>reign University, yet living as I think: He saith, That the Baptizing of Children by pouring of Water, and not Dipping, came in thus: In old time, when the Conversion was from Heathenism to Christianity, Persons of Quality being tender over their Little Children, were not willing to expose them to Danger by <hi>Dipping</hi> of them, and so not so forward for Baptizing them; therefore they did <hi>pour</hi> Water upon them in Baptism. Dipping is Essential, I grant, to <hi>Burial,</hi> but not to Baptism. <hi>Water</hi> is the Essential <hi>Ma<g ref="char:EOLhyphen"/>terial</hi> Cause. Dip a Man over Head and Ears in Milk and Wine, and 'tis no Baptism; it wants the <hi>Material Cause.</hi> And still I say, If this be applied, by <hi>Pouring</hi> or <hi>Dipping,</hi> its Baptism, one as true as the other.</p>
+            <p>One thing I observe in <hi>Philalethes,</hi> he regards not the Practice of the Church,
+<note place="margin">
+                  <hi>Section</hi> 5.</note> from the Apostles time, as <hi>Origen,</hi> and also <hi>Angustin</hi> saith Infant Baptism is; whereas this Author makes nothing of it. Verily then the Pro<g ref="char:EOLhyphen"/>mise of Christ to be with his Ministry and Church to the end of the World, and of his Spirit likewise, have some, yea, much Dishonour cast upon it; to let his Church, the great Body of it in all Ages, the Eminent Saints for
+<pb n="15" facs="tcp:192262:9"/>Holiness and Learning, to err so, in such a Practice as this is; and that a pitiful few, and the Ring-leaders of them Erroneous, yea, Heretical, should be the first Bringers of a Truth to Light in one of our latter Centuries. If <hi>Infant-Baptism</hi> be an <hi>Error,</hi> tell us who was the first Author of it? If you ask, <hi>If the Denial of Infant-Baptism</hi> be an Error, tell us who was the first Author? I answer, Before <hi>Auxentius</hi> and <hi>Pelagius,</hi> two notorious Hereticks, that denied Infant-Baptism, tell us who ever denied the Baptism of the Children of Visible Believers? <hi>Tertullian</hi> does not speak of the Children of Believing Parents: Besides there is another Spot upon <hi>Tertullian</hi>'s Name.</p>
+            <p>Both these Authors are very angry with the <hi>Athenian Gentlemen,</hi> for mention<g ref="char:EOLhyphen"/>ing the <hi>German</hi> Anabaptists; and tell them in all Societies or Professions there will be some vile and corrupt Persons.</p>
+            <p>It's very true: But 1st. It is very observable who were the <hi>First,</hi> the Ring<g ref="char:EOLhyphen"/>leaders in any Sect or Doctrin; and they were Hereticks, and in <hi>Germany</hi> very corrupt Persons. Do you prove the History of the <hi>German</hi> Anabaptists to be false if you can; when so many worthy, both Godly and Learned Men, have given us an account of them.</p>
+            <p n="2">2ly. Why do you in your Writings tell us what kind of Persons they must be that are the Subiects of Baptism? As. <hi>That the glorious internal Work of the Spirit must appear i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em,</hi> p 11. In another place, <hi>Their Faith must be the Faith of the Operation of God?</hi> Again, <hi>They must experience the Death of Sin, before baptized,</hi> p. 19, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. When we come to observe your Dipt Persons, many of them we find nothing like to what you talk of.</p>
+            <p>The Author, sold by <hi>John Harris,</hi> p. 13. tells us, <hi>They differ not from Ortho<g ref="char:EOLhyphen"/>dox Christians in any Essentials —no, nor in Fundamentals of Church-Constitutions, save in the Point of Baptism,</hi> &amp;c.</p>
+            <p>For the first Part, I leave you to your Orthodox <hi>Grantham,</hi> a <hi>Messenger (forsooth) of the Churches.</hi> A very wise Interpreter of the <hi>Angels</hi> of the Seven Churches.</p>
+            <p>For the latter part, you differ but so much from others, as to <hi>Null</hi> all Churches but your selves; and that is a Difference with a witness. This is proved.</p>
+            <p n="1">1. By your Principle.</p>
+            <p n="2">2. By your Practice.</p>
+            <p>For your <hi>Principle. Baptism is the Form of a Church.</hi> Thus one of your Teachers affirmed to me and others.</p>
+            <p>
+               <hi>Forma, est causa per quem res est id quod est,</hi> saith our Logick. What any thing is, it is by it's <hi>Form.</hi> Baptism is <hi>only by Dipping</hi> say you; this is your Doctrin.</p>
+            <p>Lay then the Argument thus:</p>
+            <p>
+               <hi>They that have not the Form of a Church, are no Church.</hi> [Very true, where there is not the <hi>Forma,</hi> there cannot be the <hi>Formatum.</hi>]</p>
+            <p>
+               <hi>But they that are not Baptized by Dipping, have not the Form of a Church.</hi> Ergo. <hi>They who are not baptized by Dipping, are no Church.</hi>
+            </p>
+            <pb n="14" facs="tcp:192262:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:192262:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p n="2">
+               <pb n="16" facs="tcp:192262:11"/>2ly. It is proved by your Practice, you will hold <hi>Communion</hi> with no other Churches but your selves, and this you justifie by your wretched abusing of the Text, 2 <hi>Thess.</hi> 3.6. to which I have answered elsewhere, and add this only to it now, You are the Disorderly Walkers, who slight and cast off our Father <hi>Abraham</hi>'s Covenant, cut off the Entail to his Seed, when God hath not, and shut them out of the Church, laying them in that miserable Estate we were in before Christ, 2 <hi>Ephes.</hi> 11, 12.</p>
+            <p>Let those that impose upon Churches look to themselves, that they be not guilty of <hi>Schism.</hi> I impose nothing [but what I am sure Christ hath] upon Anabaptist, Independent, Presbyterian, Church of <hi>England</hi> Members, pro<g ref="char:EOLhyphen"/>vided they walk as become Christians, I give Communion to them all, bearing with the other Differences.</p>
+            <p>I hear of a very worthy Brother, who hath an Anabaptist joyned with him in Office, and such Adult as will be Dipt, [rejecting their sormer Baptism] he Dips them; but at the Lord's Table they sit down all together.</p>
+            <p>This latter I like very well: But for the former, If our Brother do bap<g ref="char:EOLhyphen"/>tize Children by <hi>Dipping,</hi> then there may be something in it; else, he hath one joyned with him, that condemns and nulls his Act; which I think is absurd to admit; for he will baptize them, whom he hath baptized before. This is but Confusion. As that is our Misery in <hi>England,</hi> either <hi>Persecution,</hi> or <hi>Confusion;</hi> both which the Bishops might have prevented, had they pleased.</p>
+            <p>I thought to have spoken to him who makes the Covenant with our Father <hi>Abraham,</hi> 17 <hi>Gen.</hi> 7. to <hi>be a Covenant of Works;</hi> but I saw it would take up more Paper than I intended. He hath his Answer by that worthy and now blessed Saint of God, Mr. <hi>Flavel.</hi> I only say this, 'tis but righteous with the Lord to infatuate them, who slight his <hi>Grace.</hi>
+            </p>
+            <p>I have but one Word to the Anabaptists. Many of you had Godly Parents, one or both, who in Obedience to God, blessing of God for their Father <hi>Abraham</hi>'s Covenant, gave you up to God in Baptism. Now I desire you to Answer in the Presence of God,</p>
+            <p n="1">1st. Did you, when you came to Years of Understanding, seriously and solemnly before the Lord, own your Parents Act, and give up your selves to God, as they did?</p>
+            <p n="2">2ly. Have you blessed God since for your Father <hi>Abraham,</hi> and your Baptis<g ref="char:EOLhyphen"/>mal Covenant?</p>
+            <p n="3">3ly. Have you improved these Covenants, to lay hold upon God by them, to be your God for ever?</p>
+            <p n="4">4ly. Have you begged of God to perform his part of his Covenant, [God must begin first] that you may in the strength thereof perform your part in the Covenant to them.</p>
+            <p n="5">5ly. Have you experienced what an Advantage it is to a Soul, under Dark<g ref="char:EOLhyphen"/>ness, Temptation, yet to lay hold upon God by these Covenants? I pray do not tell God you were but <hi>sprinkled</hi> [which is but to tell him a Lie, we have not
+<pb n="17" facs="tcp:192262:11"/>known, nor do know any such Practice] not <hi>Baptized.</hi> And will you prate and write against that in Religion, which you never experienced, nor ever went about to experience? What is Religion without experiencing the Power of it? Others have experienced what I say, their Experience grounded upon the Scriptures I have mentioned, and blessed God for these Covenants. To some he hath eminently appeared in their Baptismal-Covenant, tho not Dipt. You that have not done thus, you have dealt unworthily by God, and God hath justly given you up to this Error.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:192262:12"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE Answer of <hi>Giles Firmin,</hi> to the Vain and Unprofitable Question put to him, and charged upon him by Mr. <hi>Grantham,</hi> in his Book, Entituled, <hi>The Infant's Advocate:</hi> viz. <hi>Whether the greatest Part of Dying Infants shall be Damned?</hi> Which <hi>Advocate,</hi> while he shuts all Infants out of the <hi>Visible Church,</hi> and denies them <hi>Baptism,</hi> opens Heaven to all Dying Infants, justifying those of his Party, who admit them all as he doth, into Heaven without Regeneration. The Preface may be very useful for the Children of Godly Parents. <hi>London,</hi> Printed for <hi>John Lawrence</hi> at the <hi>Angel</hi> over-against the <hi>Poultrey-Compter.</hi> 1689.</p>
+         </div>
+         <div type="postscript">
+            <pb n="19" facs="tcp:192262:12"/>
+            <head>POSTSCRIPT.</head>
+            <p>HE that stiles himself <hi>Philalethes,</hi> hath given us seven Arguments against <hi>Infant-Bap<g ref="char:EOLhyphen"/>tism,</hi> but his seventh hath more in it than all his six, had it been true: I waited for the Proof of it, and it came to my Hand after, I fear, my Copy is Printed.</p>
+            <p>His Argument is, <hi>Baptizing of Infants in the Name of the Lord, is substantially and severely forbidden by the Word of God.</hi> Ergo. The Antecedent is prov'd by the 18 <hi>Deut.</hi> 20. <hi>It is not Commanded by God.</hi> Ergo.</p>
+            <p>We are allowed Consequences it seems, then well enough. As to the Text, it speaks <hi>severely</hi> indeed, against those who are guilty according to that Text; for such were to dye not only by the Magistrate <hi>temporally,</hi> but also <hi>eternally:</hi> Yet I fear not to say, there are many more thousands of Paedobaptists in Heaven than either Anabaptists, or Anti<g ref="char:EOLhyphen"/>paedobaptists.</p>
+            <p>The Text speaks of two sorts of <hi>Prophets.</hi> But what is a <hi>Prophet</hi> in the Old Testa<g ref="char:EOLhyphen"/>ment? the Name is taken from speaking or uttering words, or Oracles that come from God immediately, seeing or receiving them by Vision; had the Spirit of God, foretelling things to come. We pretend to no such things, we cleave to the written Word, using Consequences from it, as you do.</p>
+            <p>These Prophets, some could speak in the Name of the true God, pretending that God sent them, but did Lye. What God had spoken by his true Prophets, they spake quite contrary in his Name, oppose God to his Face. Such were found in <hi>Israel,</hi> 14 <hi>Jerem.</hi> 14. &amp; 23.31, 32. &amp; 27.15. &amp; 29.21, 23. 13 <hi>Ezek.</hi> 6.</p>
+            <p n="2">2ly. Some Prophets could speak in the Name of other gods, as they who Prophesied by <hi>Baal,</hi> 2 <hi>Jer.</hi> 8. &amp; 23 <hi>Jer.</hi> 13. and these could teach <hi>Israel</hi> how to Sacrifice their Children to <hi>Moloch,</hi> 19 <hi>Jer.</hi> 5.</p>
+            <p>Which of these Crimes do you charge upon us?</p>
+            <p>As for the Command of God to Baptize the Infants of Believing Parens, I have spo<g ref="char:EOLhyphen"/>ken to it before; this Text does not scare us from our Duty.</p>
+            <p>You have taken great Pains, to help your Reader understand the signification of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the 2 <hi>Act.</hi> 38, 39. telling him it signifies Persons grown in Stature, as your learned <hi>Grantham</hi> tells his Followers: And who does not know this? but you should have added the word <hi>Only</hi> to it; then, had you looked into the New Testament, 2 <hi>Matth.</hi> 18. compared with 16 <hi>v.</hi> where it is the first time used, and in 1 <hi>Thes.</hi> 2.7. you would have seen your Confutation. I have Viewed two and twenty Texts more, where the word signifies as well <hi>little Children</hi> as grown Men.</p>
+            <p>The Persons to whom <hi>Peter</hi> was speaking, were <hi>Bearded [Da veniam verbo] Children,</hi> since the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> must signifie such; and these <hi>Bearded Children</hi> had little Children, and the Promise did belong to them both, <hi>to you, and to your Children.</hi>
+            </p>
+            <p>The Text does not say, <hi>Repent and be Baptized,</hi> that <hi>the Promise</hi> may <hi>be to you and your Children;</hi> but it saith, <hi>Repent and be Baptized,</hi> For <hi>the Promise</hi> Is, <hi>to you and your Children,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: So that there was some Promise antecedent to their Repent<g ref="char:EOLhyphen"/>ing and Baptizing, and the Apostle doth exhort them and encourage them to Repentance and Baptism, from their being under the Promise. They who were Actual sinners, guilty of that great sin, they must actually Repent of their sin and be Baptized. Their Children who were not actually guilty of that sin, but being under the Promise, as their Parents were [the Apostle is upon the same design, 3 <hi>Acts</hi> 25. <hi>Ye are the Children</hi> [your little ones as well as your selves] of the <hi>Prophets, and</hi> of the Covenant, <hi>which God made,</hi> &amp;c.]
+<pb facs="tcp:192262:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:192262:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:192262:14"/>the Children having need of the Blessings, and being Subjects capable of the Blessings sig<g ref="char:EOLhyphen"/>nified in Baptism, as well as the Parents: As it was the Parents Duty to be Baptized, so it was their Duty to give up their Children to the Lord in that Ordinance, Dedicate them to him, and wait for his Blessing upon them in it, for they were under the Promise, un<g ref="char:EOLhyphen"/>der the Covenant.</p>
+            <p>When the Apostle Preached to the Gentiles, <hi>Who were strangers from the Covenants of Promise,</hi> 2 Ephes. 12. they never use this Ground and Argument to bring them to Re<g ref="char:EOLhyphen"/>pentance and Baptism, but <hi>Peter</hi> in his two first Sermons to the Jews, useth it so that it is something for Parents, and Children with their Parents, to be under our Father <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s Covenant, which Gentiles believing in the Promised Seed to <hi>Abraham,</hi> are, he be<g ref="char:EOLhyphen"/>ing the Father of Visible Believers in Christ, [as he was a Visible Believer himself] as of the invisible.</p>
+            <p>As to the <hi>Paedobaptists fawning one upon another,</hi> which <hi>Philalethes</hi> Charges the <hi>Athenian Gentlemen</hi> with, because they put into their <hi>Gazets</hi> a Note concerning Mr. <hi>Eliot,</hi> given them by an unknown Hand: I have but this to say, That Eminent Servant of Christ, Mr. <hi>Eliot,</hi> I knew him well, being a Member of the same Church into which I was admitted about threescore Years since. <hi>David</hi> had warlike Valiant Men under him, but there were <hi>three</hi> most eminent, 2 <hi>Sam.</hi> 23.8. God hath many precious Saints, but amongst them, some are more eminent than others, and our <hi>Eliot</hi> for <hi>Holiness, Heavenly-minded<g ref="char:EOLhyphen"/>ness, Humility, Self-denyal, Zeal for God,</hi> and <hi>Charity,</hi> shall take his Place among the first <hi>three:</hi> This is the Holy Man whom God hath Honoured above all Men in the World, for many Ages, making him the Apostle, the first Gospel-Preacher to the <hi>American In<g ref="char:EOLhyphen"/>dians,</hi> invading the Devils Kingdom, and setting up Churches of Christ in the midst of it, in spite of all the Power of Hell; so Zealous in his Master's Work, that for several dayes in one Week he was not dry, but pulled off his Stockings at Night, and wrung them, and put them on again. The Apostles when they went forth to Preach, had the Gift of Tongues miraculously bestowed upon them, and Cost them no Trouble; but <hi>Our Eliot,</hi> [I call him <hi>Our,</hi> because he was a Member first of of <hi>our Church</hi>] he must Study, Labour and Pray hard, to learn the Tongue of that People to whom he was to Preach, a strange Language, having no affinity with other Tongues, and hath Translated the Bible into that Language. To Conclude, a Man that had such Communion with God, that if there were any Publick Enterprize in hand, let Mr. <hi>Eliot</hi> carry it first to his God, and he would tell them whether it should succeed well or ill: Whence I do highly esteem of his Judgment in the things of God, and in this particular of <hi>Infant-Baptism;</hi> and tho' I do think God hath his People amongst these Anabaptists, and so far I do Value them, but yet for Worth in all respects, one Mr. <hi>Eliot</hi> weights more with me than all the Anabaptists in <hi>England,</hi> tho' <hi>Philalethes</hi> be put into the Scale with them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 4. in margent, for <hi>Errors</hi> r. <hi>Erroneous.</hi> p. 7. l. 24. for <hi>We</hi> r. <hi>He.</hi> p. 8. l. 16. for <hi>we</hi> r. <hi>he.</hi> p. 10, 11. read the first Paragraph in the 11th. page, beginning with <hi>Water,</hi> after the quotation of 5 <hi>Ephes.</hi> 25, 26. in pag. 10th. p. 14. l. 12. for <hi>even</hi> r. <hi>and.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:192262:14"/>
+            <p>A BRIEF DEFENCE OF Infant-Baptism. WITH AN APPENDIX, Wherein is shewed, that it is not ne<g ref="char:EOLhyphen"/>cessary that Baptism should be administred by Dipping.</p>
+            <p>By <hi>JOHN OLLYFFE,</hi> Rector of <hi>Almer</hi> in the County of <hi>Dorset.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Robinson</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-yard: and are to be sold by <hi>John Woolfryes,</hi> Bookseller in <hi>Blandford.</hi> MDCXCIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
